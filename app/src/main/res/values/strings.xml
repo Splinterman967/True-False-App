@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">True-False</string>
+    <string name="question_counter">Question \t 1/913</string>
+    <string name="next_button">Pass >></string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="score">0</string>
+    <string name="questionRender">hello my name is mehmet ali how are you</string>
+    <string name="Score" />
+    <string name="score_">Score</string>
+</resources>

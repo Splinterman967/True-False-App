@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textStyle">
+        <item name="android:layout_width">223dp</item>
+        <item name="android:layout_height">69dp</item>
+        <item name="android:fontFamily">@font/adamina</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="buttonStyle">
+        <item name="android:layout_width">349dp</item>
+        <item name="android:layout_height">62dp</item>
+        <item name="android:layout_marginStart">169dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginEnd">169dp</item>
+        <item name="android:backgroundTint">#060B29</item>
+        <item name="android:textColor">#028175</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
